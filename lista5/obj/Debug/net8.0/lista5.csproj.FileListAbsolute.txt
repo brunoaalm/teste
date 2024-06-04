@@ -1,0 +1,15 @@
+/workspaces/teste/lista5/bin/Debug/net8.0/lista5
+/workspaces/teste/lista5/bin/Debug/net8.0/lista5.deps.json
+/workspaces/teste/lista5/bin/Debug/net8.0/lista5.runtimeconfig.json
+/workspaces/teste/lista5/bin/Debug/net8.0/lista5.dll
+/workspaces/teste/lista5/bin/Debug/net8.0/lista5.pdb
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.AssemblyInfoInputs.cache
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.AssemblyInfo.cs
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.csproj.CoreCompileInputs.cache
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.sourcelink.json
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.dll
+/workspaces/teste/lista5/obj/Debug/net8.0/refint/lista5.dll
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.pdb
+/workspaces/teste/lista5/obj/Debug/net8.0/lista5.genruntimeconfig.cache
+/workspaces/teste/lista5/obj/Debug/net8.0/ref/lista5.dll
